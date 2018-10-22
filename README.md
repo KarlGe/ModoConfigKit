@@ -4,7 +4,7 @@ This config kit is a collection of scripts and configs that I use for Modo
 
 ## Installation
 
-Clone into your Luxology/Kits folder and restard Modo
+Clone into your Luxology/Kits folder and restart Modo
 
 
 ## Acknowledgements
