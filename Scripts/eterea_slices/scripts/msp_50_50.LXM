@@ -1,0 +1,10 @@
+#LXMacro#
+tool.set poly.loopSlice on
+tool.attr poly.loopSlice count 1
+tool.attr poly.loopSlice mode uniform
+tool.attr poly.loopSlice select 0
+tool.attr poly.loopSlice depth 0.0
+tool.setAttr poly.loopSlice edit move
+tool.doApply
+tool.set poly.loopSlice off 0
+select.drop polygon

@@ -1,0 +1,3 @@
+#LXMacro#
+tool.set sculpt.move on
+tool.set brush.smooth on 0

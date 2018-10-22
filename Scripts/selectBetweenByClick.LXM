@@ -1,0 +1,5 @@
+#LXMacro#
+#selectBetweenByClick.LXM
+
+select.3DElementUnderMouse add
+select.between

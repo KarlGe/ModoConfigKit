@@ -1,0 +1,4 @@
+#LXMacro#
+tool.set poly.loopSlice on
+tool.set actr.local on
+tool.attr poly.loopSlice select false
