@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Created by good_kitty on 22-24-18 at 23:24 -->
+<!-- This file should self-destruct during the good_kitty setup process. If you're reading this, something has gone wrong.-->
+
+<data>
+  <element key="initialize">1</element>
+  <element key="configs_to_extract">;;;;;;;</element>
+</data>
