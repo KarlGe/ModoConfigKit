@@ -1,10 +1,10 @@
-import lx, modo, karl_kit
+import lx, modo, config_kit
 
 """A simple example of a blessed MODO command using the commander module.
 https://github.com/adamohern/commander for details"""
 
 
-class CommandClass(karl_kit.CommanderClass):
+class CommandClass(config_kit.CommanderClass):
 
     def commander_arguments(self):
         return [
@@ -30,4 +30,4 @@ class CommandClass(karl_kit.CommanderClass):
         modo.dialogs.alert("breakfast", ' and '.join([dish1, dish2]))
 
 
-lx.bless(CommandClass, 'karl_kit.breakfast')
+lx.bless(CommandClass, 'config_kit.breakfast')
